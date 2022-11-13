@@ -12,6 +12,7 @@ public class Main {
         System.out.println();
         System.out.println(horse);
         horse.eat();
+
         System.out.println();
         System.out.println(tiger);
         System.out.println();
